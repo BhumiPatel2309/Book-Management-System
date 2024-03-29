@@ -1,1 +1,1 @@
-
+Welcome to the Book Management System! This system is designed to help you efficiently manage your library, bookstore, or personal book collection. Whether you have a small collection of books at home or you're running a large library, this system will assist you in organizing and maintaining your books effectively.
